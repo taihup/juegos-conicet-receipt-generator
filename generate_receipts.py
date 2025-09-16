@@ -4,7 +4,7 @@ import os
 
 # === CONFIG ===
 CSV_FILE = "participants.csv"       # CSV file with the columns: date, name, last name, dni, comprobante, monto
-TEMPLATE_IMAGE = "comprobante_preinscripcion.png"  # Your background image
+TEMPLATE_IMAGE = "receipt_template.png"  # Your background image
 SIGNATURE_IMAGE = "signature.png"
 OUTPUT_DIR = "output_images"     # Folder to save results
 FONT_FILE = "arial.ttf"          # Path to a .ttf font file
